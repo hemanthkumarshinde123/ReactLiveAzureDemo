@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          WELCOME TO LEPACODES.
+          WELCOME TO DEMo jhgh.
         </p>
         <a
           className="App-link"
